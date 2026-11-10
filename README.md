@@ -84,3 +84,11 @@ Business Intelligence | Financial Analytics | Data Visualization
 Lohith S
 
 MCA – Data Science
+
+## Dashboard Preview
+
+### Finance Dashboard
+![Finance Dashboard](finance_dashboard.png)
+
+### Expense & Variance Analysis
+![Expense Analysis](expense_variance_analysis.png)
